@@ -1,2 +1,2 @@
 # lacartepostale.github.io
-Carte Postale Project
+Le Carte Postale Project pour la classe Francais 202 de Jean Pierre.
